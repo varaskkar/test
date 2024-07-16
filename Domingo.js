@@ -5,9 +5,10 @@ TOCA DESCANSO
 
 OJALA LLEGUE DE NUEVO
 */
-let nombre = "Pepe"
-console.log(modify(nombre))
+let nombre2 = "Pepe"
+console.log(modify(nombre3))
 
+nombre3.length
 
 sddsd
 
